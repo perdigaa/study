@@ -1,6 +1,6 @@
 # Repositório Pessoal - Gustavo Perdigão
 
-`"Hello World!\n" - Objetivo`
+`"Hello World!\n" - OBJETIVO`
 
 Olá, espero que essa mensagem encontre você bem! 
 
